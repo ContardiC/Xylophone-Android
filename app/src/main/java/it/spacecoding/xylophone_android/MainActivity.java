@@ -33,5 +33,10 @@ public class MainActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+        // TODO: Create a new SoundPool
+
+        // TODO: Load and get the IDs to identify the sounds
+
     }
+    // TODO: Add the play methods triggered by the buttons
 }
