@@ -14,7 +14,8 @@
         android:layout_height="wrap_content"
         android:text=""
         style="@style/KeyStyle"
-        android:backgroundTint="@color/red" />
+        android:backgroundTint="@color/red"
+        android:onClick="PlayC"/>
     <Button
         android:id="@+id/d_key"
         android:layout_width="320dp"
